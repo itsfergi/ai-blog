@@ -2,7 +2,7 @@ baseurl = "/ai-blog/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-theme = "minimal-theme"
+theme = "minimal-hugo-theme"
 paginate = 5
 
 [params]

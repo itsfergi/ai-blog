@@ -4,3 +4,6 @@
 [submodule "minimal-hugo-theme"]
 	path = minimal-hugo-theme
 	url = git@github.com:itsfergi/minimal-hugo-theme.git
+[submodule "themes/minimal-hugo-theme"]
+	path = themes/minimal-hugo-theme
+	url = git@github.com:itsfergi/minimal-hugo-theme.git
