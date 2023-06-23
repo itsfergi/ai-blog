@@ -1,3 +1,6 @@
 [submodule "themes/minimal-theme"]
 	path = themes/minimal-theme
 	url = https://github.com/sir-fergus0n/minimal-hugo-theme.git
+[submodule "minimal-hugo-theme"]
+	path = minimal-hugo-theme
+	url = git@github.com:itsfergi/minimal-hugo-theme.git

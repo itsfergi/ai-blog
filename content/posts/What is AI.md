@@ -1,4 +1,13 @@
-*Tags: Artificial Intelligence, Machine Learning, Deep Learning, Machine Learning Algorithms*
+---
+author: Lukas Hofbauer
+date: 2023-06-23
+title: Tranformer Neural Network
+tags:
+ - Artificial Intelligence
+ - Machine Learning
+ - Deep Learning
+ - Machine Learning Algorithms
+---
 
 Artificial Intelligence (AI) is a rapidly evolving field that has garnered significant attention in recent years. It has the potential to revolutionize various aspects of our lives, from healthcare to transportation, and everything in between. But what exactly is AI, and how does it relate to machine learning?
 

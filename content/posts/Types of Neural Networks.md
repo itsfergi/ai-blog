@@ -1,6 +1,19 @@
-# Types of Neural Networks: Exploring the Landscape of Deep Learning
+---
+author: Lukas Hofbauer
+date: 2023-06-23
+title: Types of Neural Networks
+tags: 
+ - Artificial Intelligence
+ - Deep Learning, Neural Networks
+ - GANs
+ - VAEs
+ - GNNs
+ - CNNs
+ - Transformers
+ - Diffusion Models
+---
 
-*Tags: Artificial Intelligence, Deep Learning, Neural Networks, GANs, VAEs, GNNs, CNNs, Transformers, Diffusion Models*
+# Types of Neural Networks: Exploring the Landscape of Deep Learning
 
 Neural networks have revolutionized the field of artificial intelligence and have become a cornerstone of deep learning. With various architectures designed to tackle different data types and tasks, neural networks have opened up new possibilities for solving complex problems. In this blog post, we will explore a selection of neural network models, shedding light on their unique characteristics and applications.
 

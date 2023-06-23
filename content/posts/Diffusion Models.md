@@ -1,7 +1,12 @@
-# Diffusion Models: Unleashing the Power of Generative Modeling
-
-*Tags: Artificial Intelligence, Deep Learning, Diffusion Models, Generative Modeling*
-
+---
+author: Lukas Hofbauer
+date: 2023-06-23
+title: Diffusion Models
+tags: 
+ - Artificial Intelligence
+ - Deep Learning, Diffusion Models
+ - Generative Modeling
+---
 Diffusion models have emerged as a powerful class of generative models that excel at capturing complex data distributions. They have gained significant attention in the field of artificial intelligence and deep learning due to their ability to generate high-quality samples and perform a wide range of tasks. In this blog post, we'll delve into the concept of diffusion models and explore their potential applications.
 
 ## Understanding Diffusion Models
