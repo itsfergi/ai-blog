@@ -1,13 +1,12 @@
 ---
 author: Lukas Hofbauer
 date: 2023-06-25
-title: "T5 Transformer Unleashing the Power of Text to Text Transfer Transformer"
+title: "T5 Transformer: Unleashing the Power of Text-to-Text Transfer Transformer"
 tags: 
  - Artificial Intelligence
  - Natural Language Processing
  - Transformers
  - T5
- - Text-to-Text Transfer Transformer
 ---
 The T5 Transformer model, short for Text-to-Text Transfer Transformer, has emerged as a powerful and versatile language model that has made significant strides in natural language processing (NLP) tasks. T5 represents a major advancement in the field, demonstrating impressive capabilities in various text-related applications. In this blog post, we will explore the key features and applications of the T5 Transformer.
 

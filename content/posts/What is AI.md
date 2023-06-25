@@ -2,7 +2,6 @@
 author: Lukas Hofbauer
 date: 2023-06-23
 title: What is AI?
-```
 tags:
  - Artificial Intelligence
  - Machine Learning
