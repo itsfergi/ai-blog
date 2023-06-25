@@ -1,4 +1,10 @@
-
+---
+author: Lukas Hofbauer
+date: 2023-06-25
+title: Parameter Efficient Training Methods
+tags:
+ - Transformer
+---
 ## Bottleneck Adapters
 Introduces feed-forward layers in each layer of the Transformer model.
 These are a down projection W_down and an up projection W_up with a non-linearity in between. The most important configuration is the bottel neck size. Configurations differ on where in the transformer block the adapter layers are place.
