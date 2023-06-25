@@ -1,7 +1,8 @@
 ---
 author: Lukas Hofbauer
 date: 2023-06-23
-title: Tranformer Neural Network
+title: What is AI?
+```
 tags:
  - Artificial Intelligence
  - Machine Learning
