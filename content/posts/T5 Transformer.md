@@ -13,7 +13,7 @@ The T5 Transformer model, short for Text-to-Text Transfer Transformer, has emerg
 
 ## Understanding the T5 Transformer
 
-The T5 Transformer is based on the Transformer architecture, which utilizes self-attention mechanisms to capture contextual relationships within a text. However, what sets the T5 model apart is its ability to handle a wide range of text-based tasks using a unified "text-to-text" approach.
+The T5 Transformer is based on the [Transformer]({{< ref "Tranformer Neural Network" >}}) architecture, which utilizes self-attention mechanisms to capture contextual relationships within a text. However, what sets the T5 model apart is its ability to handle a wide range of text-based tasks using a unified "text-to-text" approach.
 
 Unlike previous models that were designed for specific NLP tasks, T5 is trained in a "fill-in-the-blank" manner, where the input is transformed into a text-to-text format. By framing different tasks as text-to-text problems, T5 can be fine-tuned and applied to tasks such as machine translation, text summarization, question answering, sentiment analysis, and more.
 
