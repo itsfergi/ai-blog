@@ -1,7 +1,7 @@
 ---
 author: Lukas Hofbauer
 date: 2023-06-25
-title: T5 Transformer: Unleashing the Power of Text-to-Text Transfer Transformer
+title: "T5 Transformer: Unleashing the Power of Text-to-Text Transfer Transformer"
 tags: 
  - Artificial Intelligence
  - Natural Language Processing
