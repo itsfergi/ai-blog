@@ -35,11 +35,11 @@ Convolutional Neural Networks, or CNNs, excel at processing grid-like data such 
 
 ## 5. Transformers
 
-[Types of Neural Networks]({{< ref "Types of Neural Networks" >}})Transformers have revolutionized the field of natural language processing (NLP) and sequential data modeling. They employ self-attention mechanisms to capture relationships between different elements of a sequence, enabling them to model complex dependencies. Transformers have achieved state-of-the-art results in tasks like machine translation, text generation, and sentiment analysis.
+[[Types of Neural Networks]]Transformers have revolutionized the field of natural language processing (NLP) and sequential data modeling. They employ self-attention mechanisms to capture relationships between different elements of a sequence, enabling them to model complex dependencies. Transformers have achieved state-of-the-art results in tasks like machine translation, text generation, and sentiment analysis.
 
 ## 6. Diffusion Models
 
-[Diffusion Models]({{< ref "Diffusion Models" >}}) capture complex data distributions through a progressive diffusion process. They iteratively transform a simple initial distribution into a more complex target distribution, enabling high-quality sample generation. Diffusion models excel in tasks such as image generation, image inpainting, anomaly detection, and data denoising.
+[[Diffusion Models]] capture complex data distributions through a progressive diffusion process. They iteratively transform a simple initial distribution into a more complex target distribution, enabling high-quality sample generation. Diffusion models excel in tasks such as image generation, image inpainting, anomaly detection, and data denoising.
 
 This list represents just a glimpse of the diverse neural network models available in the deep learning landscape. Other notable architectures include Recurrent Neural Networks (RNNs) for sequential data, Autoencoders for unsupervised learning, Radial Basis Function Networks (RBFNs) for function approximation, and Long Short-Term Memory Networks (LSTMs) for memory-intensive tasks.
 
