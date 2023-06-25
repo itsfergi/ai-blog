@@ -1,12 +1,12 @@
 {{- $url := urls.Parse .Destination -}}
 {{- $scheme := $url.Scheme -}}
 
-<img src="
+<img loading="lazy" src="
   {{- if eq $scheme "" -}}
     {{- if strings.HasSuffix $url.Path ".md" -}}
       {{- relref .Page .Destination | safeURL -}}
     {{- else -}}
-      {{- printf "/%s%s" .Page.File.Dir .Destination | safeURL -}}
+      {{- printf "/ai-blog/%s%s" .Page.File.Dir .Destination | safeURL -}}
     {{- end -}}
   {{- else -}}
     {{- .Destination | safeURL -}}
